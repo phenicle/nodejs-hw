@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-hw",
+  "version": "1.0.0",
+  "description": "simple hello world",
+  "main": "nodejs-hw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phenicle/nodejs-hw.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Phenicle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phenicle/nodejs-hw/issues"
+  },
+  "homepage": "https://github.com/phenicle/nodejs-hw#readme"
+}
