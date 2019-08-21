@@ -4,7 +4,7 @@
   "description": "simple hello world",
   "main": "nodejs-hw.js",
   "scripts": {
-    "start": "node nodejs-hw.js"
+    "start": "node nodejs-hw.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
